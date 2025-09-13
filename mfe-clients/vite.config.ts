@@ -18,5 +18,4 @@ export default defineConfig({
     port: 5173,
     cors: true,
   },
-  base: "http://localhost:5173/", // <-- Adicione esta linha
 });
